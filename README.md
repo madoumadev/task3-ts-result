@@ -1,4 +1,13 @@
-```RESULT
+## Создал массив posts
+## Создал интерфейсы и тыпы
+## Создана константа normalizeData
+## Для каждый item в массиве posts  делаем:
+### Добавляем item.id в normalizeData.allIds
+### Добавляем   key-Value для item в  normalizeData.byId
+	
+	
+#RESULT
+```
 {
   "allIds": [
     "62e69d5a5458aac0ed320b35",
